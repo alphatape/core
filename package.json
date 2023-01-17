@@ -1,0 +1,9 @@
+{
+  "name": "@alphatape/core",
+  "version": "0.0.1",
+  "keywords": [
+		"alphatape",
+		"core"
+	],
+  "license": "ISC"
+}
