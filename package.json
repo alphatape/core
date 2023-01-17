@@ -2,8 +2,11 @@
   "name": "@alphatape/core",
   "version": "0.0.1",
   "keywords": [
-		"alphatape",
-		"core"
-	],
-  "license": "ISC"
+    "alphatape",
+    "core"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
